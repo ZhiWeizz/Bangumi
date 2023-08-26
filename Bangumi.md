@@ -20,6 +20,7 @@ https://github.com/ZhiWeizz/Bangumi
 <font color=#ff69b4> 
 
 - A channel
+- anima yell
 - anne happy
 - comic girls
 - **点兔**
@@ -39,8 +40,8 @@ https://github.com/ZhiWeizz/Bangumi
 - **slow start**
 - urara迷路贴
 - **摇曳露营**
-- <font color=#FF0055>樱trick</font>
-  （真百，很刺激）
+- 樱trick
+- 悠悠式
 
 </font>
 
@@ -72,6 +73,7 @@ https://github.com/ZhiWeizz/Bangumi
 - **莉可丽丝**
   （枪战，七月霸权，蒜必秒吻；但后面烂尾了）
 - 邻家索菲  （宅女与痴女）
+- 玛娜利亚魔法学院  （巴哈姆特之怒的某个外传；画风、氛围很好）
 - 明日酱的水手服  （太元气了，简直社牛）
 - **魔法少女伊莉雅**    （人活着就是为了伊莉雅）
 - 南家三姐妹
@@ -117,6 +119,7 @@ https://github.com/ZhiWeizz/Bangumi
 - 舰队collection  （轻百）
 - 见面5秒开始战斗
 - 结城友奈是勇者    （为什么不放轻百？因为太虐了啊 ╥﹏╥）
+- 进击的巨人  （画风独特，前中期热血，但后期有些烂尾）
 - 刻刻  （悬疑；时间暂停）
 - 壳中少女  （犯罪）
 - 来自新世界    （悬疑；剧情很复杂，关系很混乱）
@@ -211,6 +214,7 @@ https://github.com/ZhiWeizz/Bangumi
 - 超元气三姐妹  （~~超淫荡三姐妹~~；算是轻百；充满误会与黄段子）
 - 男子高中生的日常  （名场面之喧嚣坡）
 - 女高中生的无所事事
+- 女子高中生 Girls' High  （非轻百；有点骚）
 - 哦咪baby
 - 千绪的上学路
 - **日常**  （真·热血番）
@@ -390,14 +394,14 @@ https://github.com/ZhiWeizz/Bangumi
 此处用作统计
 result:
 
-轻百      71
-战斗      58
+轻百      74
+战斗      59
 三年起步  16
-沙雕番    15
+沙雕番    16
 异世界    23
 恋爱番    38
 泡面番    12
 国漫      3
 其他      29
 -->
-总计:	265
+总计:	270
